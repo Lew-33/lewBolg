@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://lew-33.github.io
+url: https://lew-33.github.io/lewBolg/
 date_format: "ordinal"
 title: LewBolg
 subtitle: "The decisions we make shape our lives"
