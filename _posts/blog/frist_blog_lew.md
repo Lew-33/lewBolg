@@ -2,7 +2,7 @@
 layout: post
 title: FirstBolg
 categories: [随笔 ]
-description: 9012的第五个工作日，希望能为本命年开个好头
+description: 9012的第五个工作日写下，希望能为本命年开个好头
 keywords: 随笔, lew
 ---
 
