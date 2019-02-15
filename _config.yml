@@ -4,23 +4,23 @@
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
-timezone: Asia/Shanghai
+title: LewBolg
+subtitle: "The decisions we make shape our lives"
+description: "lew-33的个人博客"
+keywords: LewBolg, "", lew, yanlw
+timezone: Asia/shenzhen
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: zkh360.com
-organization_url: http://www.zkh360.com
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+author: Lew
+organization: hhtantai.com
+organization_url: http://www.google.com
+github_username: lew-33
+location: shenzhen, China
+email: 2604468125@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -92,10 +92,10 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: 
+    username: lew-33
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: lew-33
     repo: blog-comments
     oauth:
         client_id: d2e1cbbd298958076462
